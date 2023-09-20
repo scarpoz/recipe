@@ -1,3 +1,3 @@
 # Guacamole recipe
 
-This is an exercise repository.
+This is an exercise repository. Do not be afraid of branches.
